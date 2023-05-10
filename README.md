@@ -1,5 +1,6 @@
 # python-challenge
-Below is the result of the Financial Analysis:
+Read both the csv files and below are the results which is printed to the Terminal and also to the text files.
+Below is the result of the Financial Analysis
 
 Financial Analysis
 ------------------
